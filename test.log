@@ -1,0 +1,7 @@
+2019-10-16 11:06:12,236:DEBUG:root:startup
+2019-10-16 11:06:12,236:DEBUG:root:test [1, 2, 3]
+2019-10-16 11:06:12,241:ERROR:root:unknown exc name 'var' is not defined
+Traceback (most recent call last):
+  File "/home/ismail/logging1.py", line 13, in <module>
+    var
+NameError: name 'var' is not defined
